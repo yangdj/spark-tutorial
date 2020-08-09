@@ -1,7 +1,5 @@
-/target/
-/project/project
-/project/target
-/.metals/
-/.bloop/
-/.idea/
-/project/metals.sbt
+target/
+project/project
+project/target
+.metals/
+.bloop/
